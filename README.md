@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Sobre mim 👇</h1>
 
-<!--
-**felipegomesb/felipegomesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,c++" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipegomesb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegomesb&layout=compact&theme=radical" />
+</p>
+
+---
+
